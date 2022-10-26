@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Teta_AnalyticsHW_Ignatev</string>
+
+    <string name="button_login">Login</string>
+    <string name="button_logout">Logout</string>
+    <string name="button_send_event">Send Event</string>
+    <string name="button_simulate_crash">Simulate Crash</string>
+</resources>
